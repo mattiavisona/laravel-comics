@@ -1,0 +1,12 @@
+@import '~bootstrap/scss/bootstrap';
+
+header{
+    ul{
+        display: flex;
+        justify-content: center;
+        gap: 35px;
+        list-style-type: none;
+        margin-top: 25px;
+
+    }
+}
